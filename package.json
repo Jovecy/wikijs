@@ -126,7 +126,7 @@
     "mssql": "6.2.3",
     "multer": "1.4.2",
     "mysql2": "2.2.5",
-    "nanoid": "3.1.15",
+    "nanoid": "3.1.31",
     "node-2fa": "1.1.2",
     "node-cache": "5.1.2",
     "nodemailer": "6.4.14",

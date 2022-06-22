@@ -170,7 +170,7 @@
     "serve-favicon": "2.5.0",
     "simple-git": "2.21.0",
     "solr-node": "1.2.1",
-    "sqlite3": "5.0.0",
+    "sqlite3": "5.0.3",
     "ssh2": "0.8.9",
     "ssh2-promise": "0.1.7",
     "striptags": "3.1.1",

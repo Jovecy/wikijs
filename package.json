@@ -120,7 +120,7 @@
     "mathjax": "3.1.2",
     "mime-types": "2.1.27",
     "moment": "2.29.1",
-    "moment-timezone": "0.5.31",
+    "moment-timezone": "0.5.35",
     "mongodb": "3.6.2",
     "ms": "2.1.2",
     "mssql": "6.2.3",
